@@ -1,6 +1,6 @@
 # Pocketech - A Smartphone E-commerce Website
 
-Pocketech is an ambitious smartphone e-commerce platform designed to revolutionize the smartphone purchasing experience. This project is part of the Web Programming course (3rd semester) for the Bachelor of Technology program at BML Munjal University, Gurugram, and was developed by Group 09 under the supervision of Mr. P Prashant.
+Pocketech is an ambitious smartphone e-commerce platform designed to revolutionize the smartphone purchasing experience. 
 
 ---
 
